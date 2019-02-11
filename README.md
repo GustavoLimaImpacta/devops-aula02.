@@ -1,3 +1,4 @@
-Will Smith
-Tatiana Maslany
-Charlie Sheen
+- Will Smith
+- Tatiana Maslany
+- Charlie Sheen
+- chris rock
